@@ -7,6 +7,12 @@
 * j.hopwood@student.unsw.edu.au
 * The tutorial notes will all be available at, https://github.com/jamalhopwood/20T1-T17A-comp1511 so you can go back and find everything later in the course
 
+### Goals for this Tutorial
+
+* Get comfortable talking and learning together. The best way to learn is as a group, from eachother and from getting things wrong so don't be afraid to take a guess if you're not sure.
+* My goal is to know everyones name by the end of this lesson.
+* The goal of the lab today is to get you familiar with the lab environment and the way the course will continue to run for the rest of the trimester.
+
 <br>
 <br>
 <br>
