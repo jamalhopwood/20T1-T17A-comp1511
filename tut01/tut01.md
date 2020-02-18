@@ -5,6 +5,7 @@
 * My name is Jamal Hopwood
 * I'm in my 3rd and last year of Computer Science, I love cooking, cyber security, making leather journels and eating the food I cook.
 * j.hopwood@student.unsw.edu.au
+* The tutorial notes will all be available at, https://github.com/jamalhopwood/20T1-T17A-comp1511 so you can go back and find everything later in the course
 
 <br>
 <br>
