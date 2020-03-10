@@ -138,14 +138,20 @@ int main(void) {
     int dimension = 1;
 
     printQuestion(dimension);
+    
+    printf("her");
 
     return 0;
 }
 
 int printQuestion(int dimension) {
+    
+    if (dimension > 10) return 0;
 
     printf("What is a %dD array and how do we make it and use it?", dimension);
 
     printQuestion(dimension + 1);
+    
+    return 0;
 }
 ```
