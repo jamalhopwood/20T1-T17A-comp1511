@@ -49,7 +49,6 @@
 
 It's probably going to be a bumpy ride into these uncharted waters, but lets brave it **together**.
 
-
 <br>
 <br>
 <br>

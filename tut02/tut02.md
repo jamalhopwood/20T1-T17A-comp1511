@@ -1,5 +1,11 @@
 # Tutorial 02
 
+## Goals
+
+- Understand if statement logic
+- Continue to talk!
+- Be better than just Oreos
+
 ## If statements
 
 ```c

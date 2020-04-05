@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Tutorial 02</title>
+        
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+        
+        <style>
+.task-list-item { list-style-type: none; } .task-list-item-checkbox { margin-left: -20px; vertical-align: middle; }
+</style>
+        <style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        
+        
+    </head>
+    <body class="vscode-light">
+        <h1 id="tutorial-02">Tutorial 02</h1>
+<h2 id="if-statements">If statements</h2>
+<pre><code class="language-c"><div>
+<span class="hljs-keyword">if</span> (condition) {
+    doSomething;    
+}
+
+
+<span class="hljs-keyword">if</span> (condition a) {
+
+} <span class="hljs-keyword">else</span> <span class="hljs-keyword">if</span> (condition b) {
+
+} <span class="hljs-keyword">else</span> { <span class="hljs-comment">// no condition on an else</span>
+
+}
+
+<span class="hljs-comment">// multiple conditions in one if statement</span>
+<span class="hljs-keyword">if</span> (condition a &amp;&amp; condition b || condition c) {
+
+}
+
+<span class="hljs-comment">// changes the order of operation</span>
+<span class="hljs-keyword">if</span> ((condition a &amp;&amp; condition b) || condition c) {
+
+}
+</div></code></pre>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h2 id="question-6">Question 6</h2>
+<details>
+    <summary>
+    1 / 2 * 500
+    </summary>
+    0
+</details>
+<br>
+<details>
+    <summary>
+    1 / 2.0 * 500 
+    </summary>
+    250.0
+</details>
+<br>
+<details>
+    <summary>
+    (17 / 5) * 5 + (17 % 5)
+    </summary>
+    17
+</details>
+<br>
+<details>
+    <summary>
+    (12 - 17) % 6 - 4
+    </summary>
+    -9 
+</details>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h2 id="printing-multiple-ints-in-a-string">Printing Multiple Ints in a String</h2>
+<pre><code class="language-c"><div><span class="hljs-meta">#<span class="hljs-meta-keyword">include</span> <span class="hljs-meta-string">&lt;stdio.h&gt;</span></span>
+
+<span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">(<span class="hljs-keyword">void</span>)</span> </span>{
+    <span class="hljs-keyword">int</span> num1, num2, num3;
+
+    num1 = <span class="hljs-number">1</span>;
+    num2 = <span class="hljs-number">2</span>;
+    num3 = <span class="hljs-number">3</span>;
+
+    <span class="hljs-built_in">printf</span>(<span class="hljs-string">"%d plus %d is equal to %d\n"</span>, num1, num2, num3);
+
+    <span class="hljs-keyword">return</span> <span class="hljs-number">0</span>;
+}
+</div></code></pre>
+
+    </body>
+    </html>
